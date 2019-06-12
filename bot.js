@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const prefix = ""; // ضع البريفكس الخاص بك هنا
-const token = ""; // هنا تضع التوكن الخاص بك
+const prefix = "yassaapp"; // ضع البريفكس الخاص بك هنا
+const token = "NDY3Mjk1MjYzMDk1MjU5MTQw.XQBjsg.9sXfHJNyreJzecpw6UnWUiWDKtI"; // هنا تضع التوكن الخاص بك
 
 
 
